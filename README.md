@@ -3,7 +3,7 @@ Cara Penggunnaan
 1.Unduh File Zip
 2.Extrak File Lalu Pindahkan ke htdocs
 3.Jalankan Xampp lalu masuk ke phpMyadmin
-4.Buat DataBase dengan nama db_perpustakaan dan Import DataBasenya
+4.Buat DataBase dengan nama db_perpustakaan3 dan Import DataBasenya
 5.Buka Chrome lalu ketikan sesuai penempatan Folder tersebut
 akun
 1.Login Sebagai Admin
