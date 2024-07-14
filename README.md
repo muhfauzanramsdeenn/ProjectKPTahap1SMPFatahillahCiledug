@@ -49,6 +49,6 @@ account
    Note:
    If there is an error when adding/INSERT, check the database and look in the auto increment section, the ID changes to 0, delete the ID, if you have changed the procedure in the database and add a ' ' sign to the ID, for example Procedure (pinjambuku) INSERT INTO peminjaman VALUES('peminjamanid',kodepinjam,userid,bukuid,etc.) and run the program. if there is still an error, delete the ' ' sign on the ID and run the program, remember that only the primary key ID in that table is marke ' '
 
-![alt text](https://github.com/muhammadramsdenn)
+![alt text](https://github.com/muhfauzanramsdeenn)
 
 
